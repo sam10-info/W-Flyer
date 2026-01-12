@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background: #eef6ee;
-    color: #333;
+    color: #e40000;
     line-height: 1.6;
 }
 
@@ -16,12 +16,12 @@ h1 {
 }
 
 h2 {
-    color: #4a9f4e;
+    color: #bff8c2;
     font-size: 1.5rem;
     position: relative;
 }
 h3 {
-    color: #3ff142;
+    color: #d6ffd7;
     font-size: 1.7rem;    
 }
 
