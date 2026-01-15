@@ -16,7 +16,7 @@ h1 {
 }
  
 h2 {
-    color: #ffffff;
+    color: #2e7d32;
     font-size: 1.5rem;
     position: relative;
 }
@@ -27,8 +27,8 @@ h3 {
 
 /* Hero-Bereich */
 .hero {
-    background: #2e7d32;
-    color: white;
+    background: #ffffff;
+    color: rgb(0, 118, 0);
     padding: 60px 20px;
     text-align: center;
 }
