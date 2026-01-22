@@ -248,3 +248,8 @@ html {
         margin: 0 auto 15px auto;
     }
 }
+
+.blocksatz {
+  text-align: justify;
+  hyphens: auto;
+}
